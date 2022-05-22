@@ -34,16 +34,6 @@ conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 𝚂�
 if (command == 'nsfworgy') {
 let haha = await conn.getFile(`https://api.xteam.xyz/randomimage/orgy?APIKEY=29d4b59a4aa687ca`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'tetas') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/boobs")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'booty') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/booty")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
 if (command == 'ecchi') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/ecchi")
 let json = res.data
@@ -59,41 +49,6 @@ let res = await axios("https://api.waifu.pics/nsfw/trap")
 let json = res.data
 let url = json.url
 conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)} 
-if (command == 'imagenlesbians') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/lesbians")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}     
-if (command == 'panties') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/panties")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'pene') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/penis")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'porno') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/nsfw")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'porno2') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/porngif")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'randomxxx') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/nsfw")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
-if (command == 'pechos') {
-let res = await axios("https://meme-api.herokuapp.com/gimme/sideboobs")
-let json = res.data
-let url = json.url
-conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)}
 if (command == 'yaoi') {
 let res = await axios("https://meme-api.herokuapp.com/gimme/yaoigif")
 let json = res.data
