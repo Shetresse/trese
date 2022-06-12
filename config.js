@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['593982886470', '👑 Tresse - Creadora 👑', true],
-  ['593984354212', '🤖 Trese - Bot 🤖', true],
+  ['593987887693', 'Jimmy - Cum', true],
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -62,7 +62,7 @@ global.APIKeys = { // APIKey Here
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★Tresse★'
 
-global.wm = '★Tresse★'
+global.wm = '★Numero Prohibido★'
 global.igfg = '★Tresse★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
