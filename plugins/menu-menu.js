@@ -172,7 +172,7 @@ let str = `
 ° 💵 _${usedPrefix}verificar_
 ° 💵 _${usedPrefix}unreg *<numero de serie>*_
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/K5oYrSy3oOxJJhGhMAPsCU', 'GRUPO DEL CREADOR', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/K5oYrSy3oOxJJhGhMAPsCU', 'GRUPO DEL BOT', null, null, [
 
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
