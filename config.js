@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['593982886470', '👑 Tresse - Creadora 👑', true],
+  ['593982886470', '👑 ThirTeen - Creadora 👑', true],
   ['593987887693', 'Jimmy - Cum', true],
 ] // Cambia los numero que quieras
 global.mods = [] 
@@ -60,10 +60,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★Tresse★'
+global.author = '★ThirTeen★'
 
-global.wm = '★Numero Prohibido★'
-global.igfg = '★Tresse★'
+global.wm = '★ThirTeen★'
+global.igfg = '★ThirTeen★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
