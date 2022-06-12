@@ -98,28 +98,10 @@ let str = `
 ° _${usedPrefix}nsfwass_
 ° _${usedPrefix}nsfwcum_
 
-*<AUDIOS ESCRIBELOS SIN EL PUNTITO XD/>* 
+*<COMANDOS DE AUDIO/>* 
 
-° _Audio hentai_
-° _Vete a la vrg_
-° _Pasa pack Bot_
-° _Murio el grupo_
-° _Oh me vengo_
-° _Viernes_
-° _Baneado_
-° _Sexo_
-° _Nyanpasu_
-° _Te amo_
-° _Yamete_
-° _Bañate_
-° _Es puto_
-° _La biblia_
-° _Onichan_
-° _Siuuu_
-° _Rawr_
-° _UwU_
-° _:c_
-° _a_
+° _${usedPrefix}menuaudio_
+
 
 *<COSAS RAMDON XD/>*
 ° _${usedPrefix}cristianoronaldo_
@@ -190,7 +172,7 @@ let str = `
 ° 💵 _${usedPrefix}verificar_
 ° 💵 _${usedPrefix}unreg *<numero de serie>*_
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/K5oYrSy3oOxJJhGhMAPsCU', 'GRUPO DEL CREADOR', null, null, [
 
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
