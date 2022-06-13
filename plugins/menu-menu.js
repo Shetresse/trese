@@ -76,6 +76,8 @@ let str = `
 ° _${usedPrefix}simi *<texto>*_
 ° _${usedPrefix}topgays_
 ° _${usedPrefix}formarpareja_
+° _${usedPrefix}runtime_
+
 
 *<DESCARGAS/>*
 ° _${usedPrefix}tiktok *<enlace / link /*_
